@@ -1,0 +1,10 @@
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\bin\Debug\DoAn_KTDL.exe.config
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.Properties.Resources.resources
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.csproj.GenerateResource.Cache
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\bin\Debug\DoAn_KTDL.exe
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\bin\Debug\DoAn_KTDL.pdb
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.exe
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.pdb
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.csproj.ResolveComReference.cache
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.LocThuRac.resources
+C:\Users\Nhan\Desktop\DoAn_KTDL\DoAn_KTDL\obj\Debug\DoAn_KTDL.csprojResolveAssemblyReference.cache

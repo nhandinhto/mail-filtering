@@ -1,0 +1,6746 @@
+﻿trước
+0.3636364
+ngõ
+0.1818182
+nhà
+0.5454546
+em
+0.4545455
+có
+0.8181818
+một
+1
+cây
+0.3636364
+bàng
+0.1818182
+này
+0.3636364
+do
+0.4545455
+bố
+0.5454546
+trồng
+0.1818182
+lẽ
+0.4545455
+nó
+0.7272727
+cũng
+0.6363636
+xấp
+0.1818182
+xỉ
+0.2727273
+tuổi
+0.2727273
+từ
+0.7272727
+lâu
+0.3636364
+đã
+0.7272727
+gắn
+0.2727273
+bó
+0.5454546
+với
+0.6363636
+như
+0.7272727
+người
+0.8181818
+bạn
+0.5454546
+thân
+0.5454546
+thiết
+0.2727273
+trải
+0.2727273
+qua
+0.6363636
+bao
+0.5454546
+nắng
+0.1818182
+mưa
+0.2727273
+gió
+0.3636364
+bão
+0.1818182
+vẫn
+0.3636364
+hiên
+0.4545455
+ngang
+0.2727273
+đứng
+0.4545455
+đó
+0.9090909
+xanh
+0.3636364
+tươi
+0.1818182
+lớn
+0.3636364
+lên
+0.4545455
+theo
+0.4545455
+thời
+0.5454546
+gian
+0.4545455
+dáng
+0.1818182
+hơi
+0.3636364
+nghiêng
+0.2727273
+to
+0.4545455
+thẳng
+0.1818182
+vỏ
+0.1818182
+xù
+0.1818182
+xì
+0.1818182
+màu
+0.3636364
+nâu
+0.1818182
+sẫm
+0.1818182
+cành
+0.1818182
+vươn
+0.2727273
+dài
+0.4545455
+lá
+0.3636364
+trông
+0.3636364
+bàn
+0.2727273
+tay
+0.4545455
+đang
+0.3636364
+vẫy
+0.2727273
+lấp
+0.1818182
+ló
+0.1818182
+ẩn
+0.1818182
+hiện
+0.2727273
+chùm
+0.1818182
+quả
+0.4545455
+mùa
+0.1818182
+thu
+0.3636364
+đến
+0.6363636
+chiếc
+0.4545455
+mướt
+0.1818182
+chuyển
+0.1818182
+dần
+0.4545455
+sang
+0.2727273
+đỏ
+0.3636364
+tía
+0.1818182
+mỗi
+0.2727273
+cơn
+0.2727273
+heo
+0.4545455
+may
+0.2727273
+thoảng
+0.1818182
+làm
+0.5454546
+khẽ
+0.2727273
+đung
+0.1818182
+đưa
+0.4545455
+bấc
+0.1818182
+tràn
+0.2727273
+về
+0.6363636
+mang
+0.3636364
+cái
+0.6363636
+lạnh
+0.2727273
+cắt
+0.1818182
+da
+0.3636364
+thịt
+0.1818182
+của
+1
+đông
+0.3636364
+luồng
+0.1818182
+dường
+0.1818182
+mạnh
+0.1818182
+hơn
+0.5454546
+cuốn
+0.2727273
+cả
+1
+còn
+0.6363636
+sót
+0.1818182
+lại
+0.8181818
+cuối
+0.1818182
+chỉ
+0.7272727
+khẳng
+0.1818182
+khiu
+0.1818182
+trong
+0.7272727
+giá
+0.3636364
+rét
+0.1818182
+tuy
+0.2727273
+vậy
+0.5454546
+khi
+0.7272727
+nhìn
+0.6363636
+ta
+0.8181818
+cảm
+0.3636364
+nhận
+0.3636364
+được
+0.8181818
+sự
+0.5454546
+tiềm
+0.1818182
+sức
+0.3636364
+sống
+0.5454546
+mãnh
+0.2727273
+liệt
+0.3636364
+hạt
+0.2727273
+bay
+0.2727273
+lất
+0.1818182
+phất
+0.1818182
+báo
+0.2727273
+hiệu
+0.1818182
+xuân
+0.1818182
+hồi
+0.2727273
+sinh
+0.4545455
+đầu
+0.8181818
+búp
+0.1818182
+non
+0.4545455
+thi
+0.3636364
+nhau
+0.6363636
+đâm
+0.1818182
+chồi
+0.1818182
+nảy
+0.1818182
+lộc
+0.1818182
+những
+0.4545455
+chú
+0.7272727
+chim
+0.2727273
+nhỏ
+0.4545455
+nhảy
+0.2727273
+nhót
+0.1818182
+đùa
+0.1818182
+vui
+0.2727273
+vũ
+0.2727273
+điệu
+0.1818182
+bất
+0.5454546
+tận
+0.1818182
+trưa
+0.2727273
+hè
+0.2727273
+thường
+0.3636364
+ngồi
+0.2727273
+chơi
+0.1818182
+dưới
+0.1818182
+tán
+0.1818182
+chúng
+0.4545455
+nhặt
+0.2727273
+rơi
+0.1818182
+mũ
+0.1818182
+đội
+0.1818182
+nghé
+0.1818182
+con
+0.9090909
+ngộ
+0.2727273
+ngĩnh
+0.1818182
+vương
+0.2727273
+miện
+0.2727273
+xinh
+0.2727273
+xắn
+0.2727273
+nữa
+0.3636364
+ký
+0.1818182
+ức
+0.5454546
+kỷ
+0.2727273
+niệm
+0.1818182
+cùng
+0.3636364
+xóm
+0.1818182
+gì
+0.7272727
+thương
+0.5454546
+nhất
+0.5454546
+chưa
+0.2727273
+giờ
+0.6363636
+nghĩ
+0.7272727
+rằng
+0.4545455
+sẽ
+0.5454546
+rời
+0.3636364
+xa
+0.5454546
+thơ
+0.4545455
+thế
+0.6363636
+rồi
+0.5454546
+hôm
+0.2727273
+đi
+0.6363636
+học
+0.3636364
+thấy
+0.5454546
+công
+0.4545455
+nhân
+0.5454546
+ty
+0.1818182
+môi
+0.1818182
+trường
+0.2727273
+đô
+0.3636364
+thị
+0.3636364
+để
+0.7272727
+chặt
+0.2727273
+ngạc
+0.1818182
+nhiên
+0.3636364
+không
+0.8181818
+hiểu
+0.2727273
+vì
+0.4545455
+sao
+0.5454546
+nên
+0.4545455
+gần
+0.2727273
+hỏi
+0.6363636
+trả
+0.4545455
+lời
+0.2727273
+sắp
+0.3636364
+đề
+0.4545455
+phòng
+0.3636364
+đổ
+0.2727273
+chôn
+0.1818182
+chân
+0.1818182
+xuống
+0.1818182
+đất
+0.2727273
+lặng
+0.3636364
+bị
+0.5454546
+đẹp
+0.5454546
+cho
+0.9090909
+lúc
+0.1818182
+trơ
+0.1818182
+gốc
+0.1818182
+mất
+0.1818182
+chứng
+0.2727273
+kiến
+0.1818182
+chuyện
+0.5454546
+buồn
+0.1818182
+nhưng
+0.3636364
+trôi
+0.2727273
+nỗi
+0.3636364
+nhớ
+0.3636364
+lòng
+0.3636364
+nguôi
+0.1818182
+ngoai
+0.1818182
+tập
+0.1818182
+bận
+0.2727273
+rộn
+0.4545455
+khiến
+0.1818182
+nhiều
+0.4545455
+buổi
+0.2727273
+chiều
+0.2727273
+bài
+0.2727273
+bên
+0.3636364
+cửa
+0.3636364
+sổ
+0.1818182
+chợt
+0.1818182
+ra
+0.9090909
+cổng
+0.1818182
+nơi
+0.3636364
+nhú
+0.1818182
+cằn
+0.1818182
+cỗi
+0.1818182
+mới
+0.6363636
+bắt
+0.3636364
+đọng
+0.1818182
+mãi
+0.2727273
+tâm
+0.3636364
+trí
+0.1818182
+đây
+0.2727273
+thêm
+0.3636364
+niềm
+0.5454546
+nho
+0.2727273
+chăm
+0.1818182
+sóc
+0.1818182
+mầm
+0.2727273
+kia
+0.1818182
+hy
+0.1818182
+vọng
+0.1818182
+ngắn
+0.1818182
+hạnh
+0.4545455
+phúc
+0.3636364
+ấy
+0.9090909
+kéo
+0.1818182
+đời
+0.4545455
+hữu
+0.1818182
+hạn
+0.4545455
+lão
+0.1818182
+bệnh
+0.3636364
+tử
+0.1818182
+đương
+0.1818182
+giây
+0.1818182
+phút
+0.2727273
+đều
+0.2727273
+đáng
+0.2727273
+quý
+0.1818182
+hãy
+0.4545455
+sẵn
+0.1818182
+sàng
+0.2727273
+thử
+0.1818182
+thách
+0.1818182
+nghĩa
+0.4545455
+cuộc
+0.4545455
+thực
+0.1818182
+trọn
+0.1818182
+vẹn
+0.1818182
+trao
+0.2727273
+yêu
+0.4545455
+chính
+0.7272727
+trở
+0.4545455
+thành
+0.5454546
+phần
+0.2727273
+khác
+0.6363636
+tất
+0.4545455
+liên
+0.1818182
+quan
+0.4545455
+ngay
+0.1818182
+chào
+0.2727273
+kết
+0.3636364
+nối
+0.1818182
+mối
+0.1818182
+hệ
+0.1818182
+xã
+0.2727273
+hội
+0.3636364
+ngày
+0.6363636
+càng
+0.3636364
+rộng
+0.2727273
+mở
+0.4545455
+xấu
+0.2727273
+ác
+0.7272727
+bình
+0.3636364
+căm
+0.1818182
+tức
+0.1818182
+phẫn
+0.2727273
+nộ
+0.3636364
+ngưỡng
+0.2727273
+mộ
+1
+say
+0.2727273
+mê
+0.2727273
+thích
+0.4545455
+thú
+0.1818182
+cảnh
+0.3636364
+tượng
+0.1818182
+bi
+0.5454546
+thờ
+0.6363636
+động
+0.4545455
+chua
+0.2727273
+xót
+0.2727273
+rung
+0.2727273
+can
+0.3636364
+hay
+0.5454546
+xác
+0.2727273
+khô
+0.8181818
+cỗ
+0.2727273
+máy
+0.1818182
+tết
+0.1818182
+năm
+0.1818182
+ngoái
+0.1818182
+mẹ
+0.5454546
+thăm
+0.1818182
+hai
+0.4545455
+chị
+0.2727273
+tôi
+0.3636364
+gia
+0.5454546
+đình
+0.2727273
+trò
+0.1818182
+mật
+0.1818182
+sau
+0.3636364
+cách
+0.3636364
+dang
+0.1818182
+uống
+0.3636364
+trà
+0.3636364
+đón
+0.3636364
+khách
+0.2727273
+ánh
+0.5454546
+đèn
+0.2727273
+nê
+0.5454546
+ông
+1
+toả
+0.1818182
+sáng
+0.2727273
+dịu
+0.2727273
+tủ
+0.1818182
+bằng
+0.2727273
+gỗ
+0.1818182
+cẩm
+0.1818182
+ly
+0.1818182
+đánh
+0.3636364
+véc
+0.1818182
+ni
+0.5454546
+láng
+0.1818182
+bóng
+0.3636364
+mặt
+0.2727273
+gương
+0.1818182
+nổi
+0.2727273
+bật
+0.2727273
+đường
+0.4545455
+vân
+0.1818182
+nét
+0.1818182
+hoa
+0.2727273
+văn
+0.1818182
+kì
+0.1818182
+ảo
+0.3636364
+ấm
+0.3636364
+nóng
+0.1818182
+bốc
+0.1818182
+hương
+0.6363636
+sen
+0.1818182
+nghi
+0.3636364
+ngút
+0.1818182
+cạnh
+0.1818182
+đĩa
+0.1818182
+bánh
+0.3636364
+mứt
+0.1818182
+thơm
+0.1818182
+ngon
+0.1818182
+đào
+0.1818182
+muôn
+0.2727273
+ngàn
+0.2727273
+cánh
+0.2727273
+nở
+0.1818182
+rộ
+0.5454546
+đồ
+0.2727273
+dùng
+0.2727273
+xếp
+0.1818182
+rất
+0.3636364
+gọn
+0.3636364
+gàng
+0.1818182
+lấy
+0.2727273
+va
+0.2727273
+hộp
+0.1818182
+quà
+0.1818182
+ba
+0.7272727
+nói
+0.3636364
+nào
+0.3636364
+xem
+0.2727273
+mua
+0.2727273
+tặng
+0.1818182
+món
+0.2727273
+thỏ
+0.1818182
+bông
+0.1818182
+nghĩnh
+0.1818182
+mong
+0.1818182
+bấy
+0.1818182
+nay
+0.1818182
+bà
+0.5454546
+gói
+0.2727273
+kẹo
+0.2727273
+cháu
+0.2727273
+ăn
+0.6363636
+xong
+0.1818182
+răng
+0.2727273
+kẻo
+0.1818182
+sún
+0.1818182
+khổ
+0.2727273
+bé
+0.3636364
+long
+0.1818182
+chen
+0.1818182
+vào
+0.5454546
+quyết
+0.4545455
+my
+0.1818182
+cô
+0.6363636
+hiền
+0.2727273
+vừa
+0.2727273
+giơ
+0.1818182
+ngón
+0.1818182
+đếm
+0.1818182
+phì
+0.1818182
+cười
+0.2727273
+giọng
+0.1818182
+áp
+0.2727273
+quá
+0.4545455
+giấy
+0.2727273
+khen
+0.1818182
+thưa
+0.1818182
+khoe
+0.1818182
+tấm
+0.2727273
+xoa
+0.1818182
+tốt
+0.1818182
+lắm
+0.3636364
+cố
+0.3636364
+giỏi
+0.1818182
+mừng
+0.1818182
+nhé
+0.1818182
+mắt
+0.2727273
+trìu
+0.1818182
+mến
+0.1818182
+chứa
+0.1818182
+đựng
+0.1818182
+biển
+0.1818182
+trời
+0.2727273
+dành
+0.3636364
+nụ
+0.1818182
+kín
+0.1818182
+đáo
+0.1818182
+khôn
+0.8181818
+tả
+0.2727273
+trên
+0.4545455
+ti
+0.7272727
+vi
+0.7272727
+chiếu
+0.1818182
+chương
+0.1818182
+trình
+0.1818182
+hồ
+0.5454546
+gươm
+0.1818182
+bắn
+0.1818182
+pháo
+0.1818182
+đêm
+0.2727273
+giao
+0.1818182
+thừa
+0.1818182
+quây
+0.1818182
+quần
+0.1818182
+suốt
+0.1818182
+cứ
+0.3636364
+luôn
+0.1818182
+sum
+0.1818182
+họp
+0.1818182
+thật
+0.2727273
+vẻ
+0.2727273
+đầm
+0.1818182
+mái
+0.2727273
+vòng
+0.2727273
+quê
+0.2727273
+lễ
+0.1818182
+chọi
+0.1818182
+trâu
+0.1818182
+sơn
+0.1818182
+hải
+0.6363636
+tiếng
+0.2727273
+khắp
+0.2727273
+vùng
+0.1818182
+miền
+0.1818182
+nước
+0.4545455
+dân
+0.2727273
+câudù
+0.1818182
+ai
+0.7272727
+buôn
+0.1818182
+đâu
+0.3636364
+bán
+0.4545455
+mồng
+0.1818182
+chín
+0.8181818
+tháng
+0.2727273
+tám
+0.1818182
+du
+0.2727273
+màn
+0.2727273
+múa
+0.2727273
+cờ
+0.1818182
+truyền
+0.2727273
+thống
+0.1818182
+đặc
+0.1818182
+sắc
+0.1818182
+cụ
+0.1818182
+già
+0.2727273
+làng
+0.1818182
+dắt
+0.1818182
+thứ
+0.2727273
+số
+0.6363636
+sô
+0.2727273
+hùng
+0.2727273
+hổ
+0.4545455
+nhiêu
+0.1818182
+trận
+0.1818182
+đấu
+0.1818182
+reo
+0.1818182
+hò
+0.4545455
+khán
+0.1818182
+giả
+0.2727273
+chiến
+0.2727273
+thắng
+0.1818182
+vinh
+0.1818182
+quang
+0.1818182
+tự
+0.3636364
+hào
+0.3636364
+sung
+0.1818182
+túc
+0.1818182
+bởi
+0.2727273
+minh
+0.1818182
+thịnh
+0.1818182
+vượng
+0.1818182
+tiểu
+0.1818182
+tiền
+0.2727273
+bạc
+0.2727273
+đối
+0.1818182
+tờ
+0.1818182
+đủ
+0.1818182
+thể
+0.5454546
+xôi
+0.1818182
+mì
+0.5454546
+ngờ
+0.2727273
+yếu
+0.1818182
+tố
+0.3636364
+định
+0.2727273
+mạng
+0.2727273
+mình
+0.5454546
+phải
+0.5454546
+hàng
+0.2727273
+chắt
+0.1818182
+bóp
+0.1818182
+gom
+0.1818182
+góp
+0.1818182
+từng
+0.3636364
+ca
+0.5454546
+lọc
+0.1818182
+máu
+0.2727273
+tại
+0.2727273
+viện
+0.2727273
+bạch
+0.1818182
+mai
+0.1818182
+đau
+0.2727273
+suy
+0.3636364
+buộc
+0.1818182
+nghỉ
+0.1818182
+việc
+0.3636364
+điều
+0.2727273
+kiện
+0.1818182
+khỏe
+0.1818182
+phép
+0.1818182
+lớp
+0.1818182
+mệt
+0.2727273
+tăng
+0.1818182
+lần
+0.1818182
+tuần
+0.1818182
+chỗ
+0.1818182
+chích
+0.1818182
+ven
+0.1818182
+sưng
+0.1818182
+trứng
+0.1818182
+gà
+0.7272727
+thấm
+0.1818182
+ướt
+0.2727273
+đẫm
+0.1818182
+băng
+0.2727273
+gạc
+0.2727273
+ảnh
+0.4545455
+hưởng
+0.1818182
+thận
+0.1818182
+viêm
+0.1818182
+phổi
+0.1818182
+tim
+0.2727273
+ốm
+0.1818182
+nặng
+0.2727273
+túng
+0.1818182
+quẫn
+0.1818182
+trăm
+0.1818182
+dạo
+0.1818182
+óc
+0.4545455
+nớt
+0.1818182
+vỡ
+0.1818182
+mồ
+0.2727273
+hôi
+0.2727273
+đúng
+0.1818182
+đen
+0.4545455
+chạy
+0.1818182
+trăn
+0.2727273
+lo
+0.3636364
+lắng
+0.1818182
+khởi
+0.1818182
+xây
+0.1818182
+dựng
+0.1818182
+riêng
+0.2727273
+dễ
+0.1818182
+dàng
+0.1818182
+khó
+0.2727273
+khăn
+0.1818182
+sóng
+0.1818182
+trưởng
+0.2727273
+cứng
+0.1818182
+cáp
+0.1818182
+tìm
+0.1818182
+kiếm
+0.2727273
+bảo
+0.1818182
+vệ
+0.1818182
+than
+0.2727273
+trách
+0.2727273
+phận
+0.2727273
+họ
+0.6363636
+mắn
+0.1818182
+xin
+0.3636364
+nghe
+0.1818182
+dave
+0.1818182
+pelzer
+0.1818182
+kể
+0.1818182
+câu
+0.4545455
+vụ
+0.2727273
+bạo
+0.1818182
+hành
+0.5454546
+trẻ
+0.2727273
+khủng
+0.1818182
+khiếp
+0.1818182
+lịch
+0.1818182
+sử
+0.1818182
+mĩ
+0.1818182
+dã
+0.1818182
+man
+0.4545455
+ruột
+0.1818182
+nạn
+0.2727273
+gắng
+0.1818182
+hết
+0.1818182
+thoát
+0.1818182
+khỏi
+0.1818182
+khứ
+0.1818182
+phi
+0.1818182
+mơ
+0.2727273
+ước
+0.7272727
+viết
+0.1818182
+truyện
+0.1818182
+tích
+0.1818182
+cực
+0.1818182
+tham
+0.1818182
+dịch
+0.1818182
+chống
+0.1818182
+hoàn
+0.4545455
+đứa
+0.2727273
+xử
+0.1818182
+biệt
+0.1818182
+nắm
+0.1818182
+nửa
+0.1818182
+nằm
+0.2727273
+phụ
+0.3636364
+thuộc
+0.1818182
+vô
+0.2727273
+bước
+0.2727273
+biết
+0.1818182
+đẽ
+0.2727273
+trái
+0.1818182
+chai
+0.1818182
+sạn
+0.1818182
+đóng
+0.1818182
+độc
+0.1818182
+lương
+0.1818182
+oán
+0.2727273
+thông
+0.1818182
+hại
+0.1818182
+đọc
+0.1818182
+tin
+0.2727273
+trung
+0.1818182
+quốc
+0.1818182
+xe
+0.4545455
+tải
+0.1818182
+cán
+0.3636364
+đớn
+0.1818182
+vũng
+0.1818182
+cuống
+0.1818182
+cuồng
+0.1818182
+gọi
+0.1818182
+cấp
+0.1818182
+cứu
+0.1818182
+đấy
+0.1818182
+tình
+0.2727273
+tiếp
+0.1818182
+tục
+0.1818182
+nhạt
+0.1818182
+thếch
+0.1818182
+sáo
+0.1818182
+mòn
+0.1818182
+thoi
+0.1818182
+thóp
+0.1818182
+thở
+0.1818182
+bám
+0.1818182
+víu
+0.1818182
+chẹt
+0.1818182
+bốn
+0.1818182
+trịch
+0.1818182
+thản
+0.1818182
+xảy
+0.1818182
+nữ
+0.4545455
+rác
+0.2727273
+bế
+0.2727273
+ích
+0.7272727
+tàn
+0.1818182
+nhẫn
+0.1818182
+bây
+0.1818182
+gặp
+0.1818182
+cướp
+0.1818182
+trấn
+0.1818182
+lột
+0.1818182
+đuổi
+0.2727273
+chém
+0.1818182
+anh
+0.5454546
+ngăn
+0.1818182
+giúp
+0.1818182
+nhoi
+0.1818182
+thôi
+0.1818182
+an
+0.9090909
+dại
+0.1818182
+nhờ
+0.1818182
+hỗn
+0.1818182
+loạn
+0.1818182
+căn
+0.2727273
+nhiễm
+0.1818182
+lây
+0.1818182
+lan
+0.2727273
+trực
+0.1818182
+dẫn
+0.1818182
+lâm
+0.1818182
+não
+0.1818182
+hoạt
+0.1818182
+toàn
+0.1818182
+thấu
+0.1818182
+lợi
+0.1818182
+nếu
+0.2727273
+giáo
+0.1818182
+giật
+0.2727273
+tóc
+0.2727273
+đập
+0.1818182
+bịt
+0.1818182
+miệng
+0.1818182
+ngây
+0.1818182
+tư
+0.3636364
+giết
+0.1818182
+cải
+0.1818182
+chức
+0.1818182
+ủng
+0.2727273
+hộ
+0.4545455
+trợ
+0.1818182
+và
+0.6363636
+xuất
+0.1818182
+phát
+0.1818182
+nguy
+0.1818182
+hiểm
+0.1818182
+đặt
+0.1818182
+rốt
+0.1818182
+nguyên
+0.1818182
+chi
+0.7272727
+phối
+0.1818182
+thiếu
+0.2727273
+hụt
+0.1818182
+đại
+0.2727273
+đòi
+0.1818182
+bỏ
+0.2727273
+quên
+0.1818182
+ươm
+0.2727273
+xúc
+0.1818182
+dập
+0.1818182
+tắt
+0.2727273
+ngọn
+0.1818182
+lửa
+0.1818182
+thù
+0.1818182
+hận
+0.5454546
+ghen
+0.1818182
+ghét
+0.1818182
+thổi
+0.1818182
+bùng
+0.1818182
+cháy
+0.2727273
+hồn
+0.2727273
+nuôi
+0.1818182
+dưỡng
+0.1818182
+nguồn
+0.1818182
+duy
+0.1818182
+giận
+0.1818182
+chia
+0.1818182
+sẻ
+0.1818182
+tinh
+0.2727273
+túy
+0.1818182
+xung
+0.1818182
+quanh
+0.2727273
+điểm
+0.1818182
+đoán
+0.1818182
+tối
+0.1818182
+giữa
+0.1818182
+oi
+0.2727273
+tuyệt
+0.1818182
+lộng
+0.1818182
+cần
+0.1818182
+chờ
+0.1818182
+ối
+0.5454546
+hoàng
+0.1818182
+hôn
+0.8181818
+phố
+0.2727273
+phường
+0.1818182
+thiếp
+0.1818182
+mảng
+0.1818182
+phía
+0.1818182
+tây
+0.1818182
+vất
+0.1818182
+sợi
+0.1818182
+tơ
+0.1818182
+tà
+0.2727273
+điện
+0.1818182
+rực
+0.2727273
+thay
+0.1818182
+lộ
+0.3636364
+thênh
+0.1818182
+thang
+0.1818182
+dát
+0.1818182
+vàng
+0.1818182
+nghịt
+0.1818182
+tan
+0.1818182
+tầm
+0.1818182
+vội
+0.1818182
+vã
+0.1818182
+hối
+0.2727273
+hả
+0.7272727
+còi
+0.1818182
+tạo
+0.1818182
+bản
+0.1818182
+hòa
+0.1818182
+tấu
+0.1818182
+phồn
+0.1818182
+ồn
+0.4545455
+nhật
+0.1818182
+khung
+0.1818182
+đắp
+0.1818182
+chăn
+0.2727273
+dạ
+0.3636364
+phẳng
+0.1818182
+liễu
+0.1818182
+chải
+0.1818182
+chuốt
+0.1818182
+lăng
+0.1818182
+tím
+0.1818182
+biếc
+0.1818182
+mặc
+0.1818182
+len
+0.1818182
+vòm
+0.1818182
+cất
+0.1818182
+cao
+0.1818182
+hát
+0.2727273
+vu
+0.3636364
+ru
+0.5454546
+nồng
+0.1818182
+nàn
+0.1818182
+tha
+0.2727273
+đàn
+0.1818182
+giấc
+0.1818182
+hồng
+0.1818182
+lông
+0.1818182
+che
+0.2727273
+giọt
+0.1818182
+sương
+0.1818182
+rớt
+0.1818182
+trúng
+0.1818182
+hót
+0.2727273
+líu
+0.1818182
+ríu
+0.1818182
+vang
+0.1818182
+mỏi
+0.1818182
+thanh
+0.1818182
+sôi
+0.1818182
+trăng
+0.1818182
+thủ
+0.1818182
+ít
+0.1818182
+thuyền
+0.1818182
+dòng
+0.1818182
+ngân
+0.1818182
+hà
+0.9090909
+vắt
+0.1818182
+bầu
+0.1818182
+lung
+0.1818182
+linh
+0.1818182
+hiếm
+0.1818182
+rỡ
+0.1818182
+đám
+0.1818182
+hằng
+0.1818182
+quen
+0.1818182
+ấp
+0.3636364
+in
+0.8181818
+vật
+0.1818182
+khu
+0.1818182
+êm
+0.4545455
+chốn
+0.2727273
+chẳng
+0.1818182
+tĩnh
+0.1818182
+mịch
+0.1818182
+nội
+0.1818182
+kẻ
+0.2727273
+chăng
+0.1818182
+hảo
+0.1818182
+tiết
+0.1818182
+đạt
+0.1818182
+giàu
+0.1818182
+mọi
+0.1818182
+nể
+0.1818182
+phục
+0.1818182
+chút
+0.1818182
+ngẫm
+0.1818182
+giản
+0.1818182
+dị
+0.4545455
+trai
+0.1818182
+dũng
+0.1818182
+khí
+0.1818182
+bếp
+0.1818182
+nấu
+0.1818182
+canh
+0.1818182
+mặn
+0.1818182
+cá
+0.8181818
+sốt
+0.1818182
+sậm
+0.1818182
+ngả
+0.1818182
+trước ngõ
+0.2
+ngõ nhà
+0.2
+nhà em
+0.2
+em có
+0.3
+có một
+0.5
+một cây
+0.2
+cây bàng
+1.6
+bàng này
+0.2
+này do
+0.2
+do bố
+0.2
+bố em
+0.2
+em trồng
+0.2
+có lẽ
+0.2
+lẽ nó
+0.2
+nó cũng
+0.3
+cũng xấp
+0.2
+xấp xỉ
+0.2
+xỉ tuổi
+0.2
+tuổi em
+0.2
+từ lâu
+0.2
+lâu cây
+0.2
+bàng đã
+0.2
+đã gắn
+0.3
+gắn bó
+0.2
+bó với
+0.2
+với em
+0.2
+em như
+0.3
+như một
+0.4
+một người
+0.6
+người bạn
+0.4
+bạn thân
+0.2
+thân thiết
+0.2
+trải qua
+0.3
+qua bao
+0.2
+bao nắng
+0.2
+bão cây
+0.2
+bàng vẫn
+0.2
+vẫn hiên
+0.2
+hiên ngang
+0.2
+ngang đứng
+0.2
+đứng đó
+0.2
+đó xanh
+0.2
+xanh tươi
+0.2
+tươi lớn
+0.2
+lớn lên
+0.4
+lên theo
+0.2
+theo thời
+0.2
+thời gian
+0.8
+dáng cây
+0.2
+cây hơi
+0.2
+hơi nghiêng
+0.2
+thân cây
+0.2
+cây to
+0.2
+to thẳng
+0.2
+vỏ cây
+0.2
+cây xù
+0.3
+xù xì
+0.3
+xì có
+0.2
+có màu
+0.3
+màu nâu
+0.2
+nâu sẫm
+0.2
+cành bàng
+0.2
+bàng to
+0.2
+vươn dài
+0.2
+lá bàng
+0.5
+bàng trông
+0.2
+trông như
+0.2
+như bàn
+0.2
+bàn tay
+0.3
+tay đang
+0.2
+đang vẫy
+0.2
+lấp ló
+0.2
+ló ẩn
+0.2
+ẩn hiện
+0.2
+hiện chùm
+0.2
+chùm quả
+0.2
+mùa thu
+0.2
+thu đến
+0.2
+chiếc lá
+0.6
+lá xanh
+0.3
+xanh mướt
+0.2
+mướt chuyển
+0.2
+chuyển dần
+0.2
+dần sang
+0.2
+sang màu
+0.3
+màu đỏ
+0.3
+đỏ tía
+0.2
+mỗi cơn
+0.2
+cơn gió
+0.3
+gió heo
+0.2
+heo may
+0.2
+may thoảng
+0.2
+thoảng qua
+0.2
+qua làm
+0.2
+làm chiếc
+0.3
+lá khẽ
+0.2
+khẽ đung
+0.2
+đung đưa
+0.3
+gió bấc
+0.2
+bấc tràn
+0.2
+tràn về
+0.2
+mang theo
+0.2
+theo cái
+0.2
+cái lạnh
+0.2
+lạnh cắt
+0.2
+cắt da
+0.2
+da cắt
+0.2
+cắt thịt
+0.2
+thịt của
+0.2
+của mùa
+0.3
+mùa đông
+0.2
+luồng gió
+0.2
+gió dường
+0.2
+dường như
+0.2
+như mạnh
+0.2
+mạnh hơn
+0.2
+cuốn theo
+0.2
+theo cả
+0.2
+cả chiếc
+0.3
+lá còn
+0.2
+còn sót
+0.2
+sót lại
+0.2
+lại cuối
+0.2
+cuối thu
+0.2
+bàng chỉ
+0.3
+chỉ còn
+0.3
+còn lại
+0.3
+lại cành
+0.2
+cành khẳng
+0.2
+khẳng khiu
+0.2
+khiu trong
+0.2
+trong giá
+0.2
+giá rét
+0.2
+tuy vậy
+0.2
+vậy khi
+0.2
+khi nhìn
+0.3
+nhìn nó
+0.2
+ta vẫn
+0.2
+vẫn cảm
+0.2
+cảm nhận
+0.4
+nhận được
+0.3
+được sự
+0.3
+sự tiềm
+0.2
+tiềm ẩn
+0.2
+ẩn của
+0.2
+của một
+0.3
+một sức
+0.2
+sức sống
+0.2
+sống mãnh
+0.2
+mãnh liệt
+0.3
+khi hạt
+0.2
+hạt mưa
+0.4
+mưa bay
+0.2
+bay lất
+0.2
+lất phất
+0.3
+phất báo
+0.2
+báo hiệu
+0.2
+hiệu mùa
+0.2
+mùa xuân
+0.3
+xuân về
+0.2
+bàng như
+0.2
+như được
+0.2
+được hồi
+0.3
+hồi sinh
+0.4
+từ đầu
+0.2
+đầu cành
+0.2
+cành búp
+0.2
+búp non
+0.2
+non thi
+0.2
+thi nhau
+0.2
+nhau đâm
+0.2
+đâm chồi
+0.2
+chồi nảy
+0.2
+nảy lộc
+0.2
+những chú
+0.3
+chú chim
+0.4
+chim nhỏ
+0.2
+nhỏ nhảy
+0.2
+nhảy nhót
+0.2
+nhót đùa
+0.2
+đùa vui
+0.3
+vui theo
+0.2
+theo vũ
+0.2
+vũ điệu
+0.2
+điệu bất
+0.2
+bất tận
+0.2
+tận của
+0.2
+những trưa
+0.2
+trưa hè
+0.2
+em bạn
+0.3
+bạn thường
+0.2
+thường ngồi
+0.2
+ngồi chơi
+0.2
+chơi dưới
+0.2
+dưới tán
+0.3
+tán lá
+0.3
+chúng em
+0.2
+em nhặt
+0.2
+nhặt chiếc
+0.2
+bàng rơi
+0.2
+rơi làm
+0.2
+chiếc mũ
+0.2
+mũ đội
+0.2
+đội đầu
+0.2
+chú nghé
+0.2
+nghé con
+0.2
+con ngộ
+0.2
+ngộ ngĩnh
+0.2
+ngĩnh cả
+0.2
+chiếc vương
+0.2
+vương miện
+0.2
+miện xinh
+0.2
+xinh xắn
+0.3
+xắn nữa
+0.2
+trong ký
+0.2
+ký ức
+0.2
+ức của
+0.2
+của em
+0.4
+kỷ niệm
+0.3
+niệm về
+0.3
+về cây
+0.3
+bàng cùng
+0.2
+cùng người
+0.2
+bạn nhỏ
+0.2
+nhỏ trong
+0.2
+trong ngõ
+0.2
+ngõ xóm
+0.2
+xóm gì
+0.2
+gì thân
+0.2
+thân thương
+0.3
+thương nhất
+0.2
+em chưa
+0.2
+chưa bao
+0.2
+bao giờ
+0.4
+giờ nghĩ
+0.2
+nghĩ rằng
+0.2
+bàng sẽ
+0.3
+sẽ rời
+0.2
+rời xa
+0.2
+xa tuổi
+0.2
+tuổi thơ
+0.2
+thơ của
+0.2
+thế rồi
+0.2
+rồi một
+0.2
+một hôm
+0.2
+hôm đi
+0.2
+đi học
+0.2
+học về
+0.2
+em thấy
+0.2
+thấy chú
+0.2
+chú công
+0.2
+công nhân
+0.2
+nhân của
+0.3
+của công
+0.2
+công ty
+0.2
+ty môi
+0.2
+môi trường
+0.2
+trường đô
+0.2
+đô thị
+0.4
+thị đến
+0.2
+đến để
+0.2
+để chặt
+0.2
+chặt cây
+0.2
+em ngạc
+0.2
+ngạc nhiên
+0.2
+nhiên không
+0.2
+không hiểu
+0.2
+hiểu vì
+0.2
+vì sao
+0.2
+sao nên
+0.2
+nên đến
+0.2
+đến gần
+0.2
+gần để
+0.2
+để hỏi
+0.2
+một chú
+0.3
+chú trả
+0.2
+trả lời
+0.4
+lời sắp
+0.1
+sắp đến
+0.2
+đến mùa
+0.2
+mùa bão
+0.2
+bão rồi
+0.2
+chú chặt
+0.2
+chặt đi
+0.2
+đi đề
+0.2
+đề phòng
+0.2
+phòng bão
+0.2
+bão làm
+0.2
+làm đổ
+0.2
+đổ cây
+0.2
+em đứng
+0.2
+đứng như
+0.2
+như chôn
+0.2
+chôn chân
+0.2
+chân xuống
+0.2
+xuống đất
+0.2
+lặng người
+0.2
+người đi
+0.2
+đi nhìn
+0.2
+nhìn cây
+0.2
+bàng đang
+0.2
+đang bị
+0.2
+bị chặt
+0.2
+chặt dần
+0.2
+dần cành
+0.2
+cành đẹp
+0.2
+đẹp nhất
+0.2
+cho đến
+0.3
+đến lúc
+0.2
+lúc cây
+0.2
+còn trơ
+0.2
+trơ lại
+0.2
+lại gốc
+0.2
+mất cây
+0.2
+như mất
+0.2
+mất đi
+0.2
+đi một
+0.2
+bạn đã
+0.3
+đã lớn
+0.2
+lên cùng
+0.2
+cùng em
+0.3
+vui chơi
+0.2
+chơi cùng
+0.2
+chứng kiến
+0.2
+kiến bao
+0.2
+bao chuyện
+0.2
+chuyện vui
+0.2
+vui buồn
+0.2
+buồn của
+0.2
+nhưng rồi
+0.2
+rồi thời
+0.2
+gian trôi
+0.2
+trôi đi
+0.2
+nỗi nhớ
+0.2
+nhớ cây
+0.2
+bàng trong
+0.2
+trong lòng
+0.2
+lòng em
+0.2
+em cũng
+0.3
+cũng nguôi
+0.2
+nguôi ngoai
+0.2
+ngoai dần
+0.2
+học tập
+0.2
+tập bận
+0.2
+bận rộn
+0.3
+rộn khiến
+0.2
+khiến em
+0.2
+cũng không
+0.3
+không còn
+0.3
+còn nhiều
+0.4
+nhiều thời
+0.2
+gian để
+0.4
+để nghĩ
+0.2
+nghĩ đến
+0.3
+đến cây
+0.2
+bàng nữa
+0.2
+đến một
+0.2
+một buổi
+0.3
+buổi chiều
+0.2
+mưa xuân
+0.2
+xuân lất
+0.2
+phất bay
+0.2
+em đang
+0.2
+đang ngồi
+0.2
+ngồi học
+0.2
+học bài
+0.2
+bài bên
+0.2
+bên cửa
+0.2
+cửa sổ
+0.2
+bất chợt
+0.2
+chợt em
+0.2
+em nhìn
+0.2
+nhìn ra
+0.2
+ra cổng
+0.2
+nơi có
+0.2
+có cây
+0.2
+bàng thân
+0.2
+những chồi
+0.2
+chồi non
+0.2
+non đang
+0.2
+đang nhú
+0.2
+nhú lên
+0.2
+lên từ
+0.2
+từ gốc
+0.2
+gốc cây
+0.2
+xì cằn
+0.2
+cằn cỗi
+0.2
+một sự
+0.2
+sự sống
+0.2
+sống mới
+0.2
+mới lại
+0.2
+lại bắt
+0.2
+bắt đầu
+0.4
+đầu hồi
+0.2
+sẽ còn
+0.2
+còn đọng
+0.2
+đọng mãi
+0.2
+mãi trong
+0.2
+trong tâm
+0.3
+tâm trí
+0.2
+trí em
+0.2
+giờ đây
+0.2
+đây em
+0.2
+em còn
+0.2
+còn có
+0.2
+có thêm
+0.2
+thêm một
+0.2
+một niềm
+0.5
+niềm vui
+0.3
+vui nho
+0.2
+nho nhỏ
+0.2
+nhỏ được
+0.2
+được chăm
+0.2
+chăm sóc
+0.2
+sóc mầm
+0.2
+mầm non
+0.3
+non mới
+0.2
+mới được
+0.3
+sinh kia
+0.2
+em hy
+0.2
+hy vọng
+0.2
+vọng trong
+0.2
+trong một
+0.2
+một thời
+0.3
+gian ngắn
+0.2
+ngắn nữa
+0.2
+em nhỏ
+0.2
+nhỏ sẽ
+0.2
+sẽ lại
+0.2
+lại được
+0.3
+được đùa
+0.2
+vui dưới
+0.2
+được sinh
+0.3
+sinh ra
+0.3
+ra một
+0.4
+niềm hạnh
+0.3
+hạnh phúc
+0.6
+phúc hạnh
+0.2
+phúc ấy
+0.2
+ấy không
+0.2
+không kéo
+0.2
+kéo dài
+0.2
+dài mãi
+0.2
+mãi mãi
+0.2
+đời người
+0.2
+người hữu
+0.2
+hữu hạn
+0.2
+sinh lão
+0.2
+lão bệnh
+0.2
+bệnh tử
+0.2
+tử chuyện
+0.2
+chuyện đương
+0.2
+đương nhiên
+0.2
+mỗi giây
+0.2
+giây mỗi
+0.2
+mỗi phút
+0.2
+phút đều
+0.2
+đều đáng
+0.2
+đáng quý
+0.2
+hãy sẵn
+0.2
+sẵn sàng
+0.2
+sàng đương
+0.2
+đương đầu
+0.2
+đầu với
+0.2
+với thử
+0.2
+thử thách
+0.2
+sống sao
+0.2
+sao cho
+0.2
+cho ý
+0.2
+ý nghĩa
+0.3
+nhưng cuộc
+0.2
+cuộc sống
+0.6
+sống chỉ
+0.2
+chỉ thực
+0.2
+thực sự
+0.2
+sự trọn
+0.2
+trọn vẹn
+0.2
+vẹn khi
+0.2
+khi bạn
+0.2
+bạn trao
+0.2
+trao đi
+0.2
+đi yêu
+0.2
+yêu thương
+0.6
+để chính
+0.2
+chính bạn
+0.3
+bạn trở
+0.2
+trở thành
+0.3
+thành một
+0.2
+một phần
+0.3
+phần ý
+0.2
+nghĩa trong
+0.2
+trong cuộc
+0.2
+sống của
+0.2
+của người
+0.9
+người khác
+0.3
+vì tất
+0.2
+tất cả
+0.5
+cả chúng
+0.2
+chúng ta
+0.6
+ta đều
+0.2
+đều liên
+0.2
+liên quan
+0.2
+quan đến
+0.2
+đến nhau
+0.2
+vì ngay
+0.2
+ngay từ
+0.2
+từ khi
+0.2
+khi chào
+0.2
+chào đời
+0.2
+đã được
+0.2
+được kết
+0.2
+kết nối
+0.2
+nối trong
+0.2
+trong mối
+0.2
+mối quan
+0.2
+quan hệ
+0.2
+hệ xã
+0.2
+xã hội
+0.4
+hội ngày
+0.3
+ngày càng
+0.5
+càng rộng
+0.2
+rộng mở
+0.2
+nhìn thấy
+0.6
+thấy cái
+0.3
+cái xấu
+0.3
+cái ác
+0.3
+ác không
+0.2
+không thấy
+0.4
+thấy bất
+0.2
+bất bình
+0.2
+không căm
+0.2
+căm tức
+0.2
+không phẫn
+0.2
+phẫn nộ
+0.3
+cái đẹp
+0.4
+đẹp không
+0.2
+không ngưỡng
+0.2
+ngưỡng mộ
+0.3
+không say
+0.2
+say mê
+0.3
+không thích
+0.2
+thích thú
+0.2
+thấy cảnh
+0.2
+cảnh tượng
+0.2
+tượng bi
+0.2
+bi thương
+0.2
+thương lại
+0.2
+lại thờ
+0.2
+thờ ơ
+0.2
+không động
+0.2
+động lòng
+0.3
+lòng chua
+0.2
+chua xót
+0.3
+không rung
+0.2
+rung động
+0.3
+động tâm
+0.2
+tâm can
+0.2
+vậy đó
+0.2
+đó còn
+0.2
+còn con
+0.3
+con người
+0.6
+người không
+0.2
+không hay
+0.2
+hay chỉ
+0.3
+chỉ cái
+0.3
+cái xác
+0.2
+xác khô
+0.2
+khô của
+0.2
+một cỗ
+0.2
+cỗ máy
+0.2
+tết năm
+0.2
+năm ngoái
+0.2
+bố mẹ
+0.5
+mẹ về
+0.2
+về thăm
+0.2
+thăm hai
+0.2
+hai chị
+0.5
+chị em
+0.5
+em tôi
+0.4
+cả gia
+0.3
+gia đình
+0.7
+đình tôi
+0.4
+tôi lại
+0.3
+được ngồi
+0.2
+ngồi bên
+0.2
+bên nhau
+0.3
+nhau trò
+0.2
+trò chuyện
+0.2
+chuyện thân
+0.2
+thân mật
+0.2
+mật sau
+0.2
+sau một
+0.3
+gian dài
+0.2
+dài xa
+0.2
+xa cách
+0.2
+cả nhà
+0.4
+nhà dang
+0.2
+dang ngồi
+0.2
+ngồi uống
+0.2
+uống trà
+0.2
+đón tết
+0.3
+tết trong
+0.2
+trong phòng
+0.2
+phòng khách
+0.2
+ánh đèn
+0.4
+đèn nê
+0.2
+nê ông
+0.2
+ông toả
+0.2
+toả ánh
+0.2
+ánh sáng
+0.4
+sáng xanh
+0.2
+xanh dịu
+0.2
+chiếc tủ
+0.2
+tủ đứng
+0.2
+đứng bằng
+0.2
+bằng gỗ
+0.2
+gỗ cẩm
+0.2
+cẩm ly
+0.2
+ly được
+0.2
+được đánh
+0.2
+đánh véc
+0.2
+véc ni
+0.2
+ni láng
+0.2
+láng bóng
+0.2
+bóng như
+0.2
+như mặt
+0.2
+mặt gương
+0.2
+nổi bật
+0.2
+bật đường
+0.2
+đường vân
+0.2
+vân như
+0.2
+như nét
+0.2
+nét hoa
+0.2
+hoa văn
+0.2
+văn kì
+0.2
+kì ảo
+0.2
+ấm trà
+0.2
+trà nóng
+0.2
+nóng bốc
+0.2
+bốc hương
+0.2
+hương sen
+0.2
+sen nghi
+0.2
+nghi ngút
+0.2
+ngút bên
+0.2
+bên cạnh
+0.2
+cạnh đĩa
+0.2
+đĩa bánh
+0.2
+bánh mứt
+0.2
+mứt thơm
+0.2
+thơm ngon
+0.2
+cây hoa
+0.2
+hoa đào
+0.2
+đào với
+0.2
+với muôn
+0.2
+muôn ngàn
+0.2
+ngàn cánh
+0.2
+cánh hoa
+0.2
+hoa nở
+0.2
+nở rộ
+0.2
+rộ vẫy
+0.2
+vẫy chào
+0.2
+chào năm
+0.2
+năm mới
+0.2
+đồ dùng
+0.2
+dùng trong
+0.2
+trong nhà
+0.2
+nhà được
+0.2
+được mẹ
+0.2
+mẹ tôi
+0.2
+tôi sắp
+0.2
+sắp xếp
+0.2
+xếp rất
+0.2
+rất gọn
+0.2
+gọn gàng
+0.2
+mẹ lấy
+0.2
+lấy trong
+0.2
+trong va
+0.2
+va ly
+0.2
+ly ra
+0.2
+ra hai
+0.2
+hai chiếc
+0.2
+chiếc hộp
+0.2
+hộp quà
+0.2
+quà xinh
+0.2
+ba nói
+0.2
+em con
+0.2
+con mở
+0.2
+mở ra
+0.2
+ra xem
+0.2
+xem bố
+0.2
+mẹ mua
+0.2
+mua tặng
+0.2
+tặng món
+0.2
+món quà
+0.2
+quà gì
+0.2
+đó chính
+0.3
+chính một
+0.2
+chú thỏ
+0.2
+thỏ bông
+0.2
+bông ngộ
+0.2
+ngộ nghĩnh
+0.2
+nghĩnh tôi
+0.2
+tôi mong
+0.2
+mong có
+0.2
+có được
+0.5
+được nó
+0.2
+nó từ
+0.2
+từ bấy
+0.2
+bấy lâu
+0.2
+lâu nay
+0.2
+bà tôi
+0.2
+tôi mang
+0.2
+mang ra
+0.2
+một gói
+0.2
+gói kẹo
+0.2
+kẹo đưa
+0.2
+đưa cho
+0.2
+cho hai
+0.2
+hai cháu
+0.2
+cháu ăn
+0.2
+ăn xong
+0.2
+xong nhớ
+0.2
+nhớ đánh
+0.2
+đánh răng
+0.2
+răng kẻo
+0.2
+kẻo bị
+0.2
+bị sún
+0.2
+sún khổ
+0.2
+bé long
+0.2
+long chen
+0.2
+chen vào
+0.2
+vào quả
+0.2
+quả quyết
+0.2
+long thương
+0.2
+thương bà
+0.2
+bà này
+0.2
+thương ba
+0.2
+chị my
+0.2
+cô hiền
+0.2
+hiền nữa
+0.2
+vừa nói
+0.2
+nói long
+0.2
+long vừa
+0.2
+vừa giơ
+0.2
+giơ ngón
+0.2
+ngón tay
+0.2
+tay ra
+0.2
+ra đếm
+0.2
+đếm làm
+0.2
+làm cho
+0.3
+cho cả
+0.3
+nhà phì
+0.2
+phì cười
+0.2
+ba hỏi
+0.2
+hỏi với
+0.2
+với giọng
+0.2
+giọng nói
+0.2
+nói sao
+0.2
+sao ấm
+0.2
+ấm áp
+0.2
+áp quá
+0.2
+thế năm
+0.2
+năm nay
+0.2
+nay con
+0.2
+con có
+0.2
+được giấy
+0.2
+giấy khen
+0.3
+khen không
+0.2
+tôi thưa
+0.2
+thưa với
+0.2
+với bố
+0.2
+bố khoe
+0.2
+khoe tấm
+0.2
+tấm giấy
+0.2
+có ạ
+0.2
+bố xoa
+0.2
+xoa đầu
+0.2
+đầu tôi
+0.2
+tôi cười
+0.2
+tốt lắm
+0.2
+cố học
+0.2
+học giỏi
+0.2
+giỏi cho
+0.2
+cho mẹ
+0.3
+mẹ ba
+0.2
+ba mừng
+0.2
+mừng nhé
+0.2
+nhé con
+0.2
+mẹ nhìn
+0.2
+nhìn tôi
+0.2
+tôi với
+0.2
+với ánh
+0.2
+ánh mắt
+0.2
+mắt trìu
+0.2
+trìu mến
+0.2
+chứa đựng
+0.2
+đựng cả
+0.2
+cả một
+0.2
+một biển
+0.2
+biển trời
+0.2
+trời yêu
+0.2
+thương dành
+0.2
+dành cho
+0.3
+cho tôi
+0.3
+mẹ nở
+0.2
+nở một
+0.2
+một nụ
+0.2
+nụ cười
+0.2
+cười kín
+0.2
+kín đáo
+0.2
+vui khôn
+0.2
+khôn tả
+0.2
+trên ti
+0.2
+ti vi
+0.2
+vi chiếu
+0.2
+chiếu chương
+0.2
+chương trình
+0.2
+trình đón
+0.2
+ở hồ
+0.2
+hồ gươm
+0.2
+gươm đang
+0.2
+đang bắn
+0.2
+bắn pháo
+0.2
+pháo hoa
+0.2
+hoa đẹp
+0.2
+đẹp quá
+0.2
+đêm giao
+0.2
+giao thừa
+0.2
+thừa đó
+0.2
+tôi quây
+0.2
+quây quần
+0.2
+quần bên
+0.2
+nhau suốt
+0.2
+suốt đêm
+0.2
+cứ năm
+0.2
+năm nào
+0.2
+nào cũng
+0.2
+cũng thế
+0.2
+tôi luôn
+0.2
+luôn có
+0.2
+được giờ
+0.2
+giờ phút
+0.2
+phút sum
+0.2
+sum họp
+0.2
+họp thật
+0.2
+thật vui
+0.2
+vui vẻ
+0.2
+đầm ấm
+0.2
+tôi thật
+0.2
+thật hạnh
+0.2
+phúc trong
+0.2
+trong mái
+0.2
+mái ấm
+0.2
+ấm gia
+0.2
+trong vòng
+0.2
+vòng tay
+0.2
+tay yêu
+0.2
+thương của
+0.2
+của ba
+0.2
+ba mẹ
+0.2
+ở quê
+0.2
+quê em
+0.2
+một hội
+0.2
+hội lớn
+0.2
+lớn lắm
+0.2
+đó lễ
+0.2
+lễ hội
+0.2
+hội chọi
+0.4
+chọi trâu
+0.6
+trâu ở
+0.2
+ở đồ
+0.2
+đồ sơn
+0.2
+hải phòng
+0.2
+nổi tiếng
+0.2
+tiếng trên
+0.2
+trên khắp
+0.2
+khắp vùng
+0.2
+vùng miền
+0.2
+miền cả
+0.2
+cả nước
+0.2
+nhân dân
+0.2
+dân ta
+0.2
+ta có
+0.3
+có câudù
+0.2
+câudù ai
+0.2
+ai buôn
+0.2
+buôn đâu
+0.2
+đâu bán
+0.2
+bán đâu
+0.2
+mồng chín
+0.2
+chín tháng
+0.2
+tháng tám
+0.2
+tám về
+0.2
+về chọi
+0.2
+vào ngày
+0.2
+ngày hội
+0.3
+hội du
+0.2
+du khách
+0.2
+khách khắp
+0.2
+khắp nơi
+0.2
+nơi đổ
+0.2
+đổ về
+0.2
+về xem
+0.2
+xem hội
+0.2
+hội rất
+0.2
+rất đông
+0.2
+trước khi
+0.2
+khi bắt
+0.2
+đầu chọi
+0.2
+trâu có
+0.2
+một màn
+0.2
+màn múa
+0.2
+múa cờ
+0.2
+cờ truyền
+0.2
+truyền thống
+0.2
+thống rất
+0.2
+rất đặc
+0.2
+đặc sắc
+0.2
+sau đó
+0.2
+đó cụ
+0.2
+cụ già
+0.2
+già làng
+0.2
+làng dắt
+0.2
+dắt trâu
+0.2
+trâu ra
+0.2
+ra thế
+0.2
+thế bắt
+0.2
+đầu một
+0.2
+một ngày
+0.3
+ông trâu
+0.7
+trâu thứ
+0.3
+thứ nhất
+0.2
+nhất mang
+0.2
+mang số
+0.2
+thứ hai
+0.2
+hai sô
+0.2
+trâu số
+0.3
+số con
+0.1
+con trâu
+0.2
+trâu của
+0.2
+của làng
+0.3
+làng em
+0.4
+hai ông
+0.2
+trâu hùng
+0.2
+hùng hổ
+0.2
+hổ đánh
+0.2
+đánh nhau
+0.2
+sau bao
+0.2
+bao nhiêu
+0.2
+nhiêu trận
+0.2
+trận đấu
+0.2
+đấu quyết
+0.2
+quyết liệt
+0.2
+liệt tiếng
+0.2
+tiếng reo
+0.2
+reo hò
+0.2
+hò của
+0.2
+của khán
+0.2
+khán giả
+0.2
+số của
+0.1
+em đã
+0.2
+đã chiến
+0.2
+chiến thắng
+0.2
+trâu ấy
+0.2
+ấy sẽ
+0.2
+sẽ mang
+0.2
+mang vinh
+0.2
+vinh quang
+0.2
+tự hào
+0.2
+hào cả
+0.2
+cả sự
+0.2
+sự sung
+0.2
+sung túc
+0.2
+túc cho
+0.2
+cho làng
+0.2
+em rất
+0.2
+rất thích
+0.2
+thích hội
+0.2
+trâu bởi
+0.2
+bởi hội
+0.2
+trâu chứng
+0.2
+chứng minh
+0.2
+minh sự
+0.2
+sự thịnh
+0.2
+thịnh vượng
+0.2
+vượng của
+0.2
+của quê
+0.2
+quê hương
+0.2
+hương em
+0.2
+hồi học
+0.2
+học tiểu
+0.2
+tiểu học
+0.2
+tiền bạc
+0.3
+bạc đối
+0.2
+đối với
+0.2
+với con
+0.2
+con một
+0.2
+một cái
+0.2
+cái gì
+0.3
+gì đó
+0.3
+đó rất
+0.2
+rất nhỏ
+0.2
+nó tờ
+0.2
+tờ giấy
+0.2
+giấy với
+0.2
+với đủ
+0.2
+đủ màu
+0.2
+màu có
+0.2
+có thể
+0.8
+thể dùng
+0.2
+dùng để
+0.2
+để mua
+0.2
+mua cái
+0.2
+cái bánh
+0.3
+cái kẹo
+0.2
+gói xôi
+0.2
+xôi hay
+0.2
+hay cái
+0.2
+bánh mì
+0.2
+mì con
+0.1
+con đâu
+0.2
+đâu có
+0.2
+có ngờ
+0.2
+ngờ tiền
+0.2
+tiền chính
+0.2
+chính yếu
+0.2
+yếu tố
+0.2
+tố quyết
+0.2
+quyết định
+0.3
+định sinh
+0.2
+sinh mạng
+0.2
+mạng mẹ
+0.2
+mẹ mình
+0.2
+thứ bố
+0.2
+mẹ phải
+0.2
+phải hàng
+0.2
+hàng ngày
+0.2
+ngày chắt
+0.2
+chắt bóp
+0.2
+bóp bao
+0.2
+bao người
+0.2
+người thân
+0.2
+thân gom
+0.2
+gom góp
+0.2
+góp lại
+0.2
+lại để
+0.2
+để trả
+0.2
+trả cho
+0.2
+cho từng
+0.2
+từng ca
+0.2
+ca lọc
+0.2
+lọc máu
+0.4
+máu cho
+0.2
+mẹ tại
+0.2
+tại bệnh
+0.2
+bệnh viện
+0.3
+viện bạch
+0.2
+bạch mai
+0.2
+thứ càng
+0.2
+càng làm
+0.2
+làm mẹ
+0.2
+mẹ thêm
+0.2
+thêm đau
+0.2
+đau đầu
+0.2
+đầu suy
+0.2
+suy nghĩ
+0.2
+nghĩ khi
+0.2
+khi mẹ
+0.2
+mẹ buộc
+0.2
+buộc phải
+0.2
+phải nghỉ
+0.3
+nghỉ việc
+0.3
+việc làm
+0.3
+làm vì
+0.2
+vì điều
+0.2
+điều kiện
+0.2
+kiện sức
+0.2
+sức khỏe
+0.2
+khỏe không
+0.2
+không cho
+0.2
+cho phép
+0.2
+rồi đến
+0.3
+đến khi
+0.2
+khi con
+0.2
+con học
+0.2
+học lớp
+0.2
+mẹ càng
+0.2
+càng ngày
+0.2
+càng yếu
+0.2
+yếu mệt
+0.2
+phải tăng
+0.2
+tăng từ
+0.2
+từ lên
+0.1
+lên lần
+0.1
+lần lọc
+0.2
+những chỗ
+0.2
+chỗ chích
+0.2
+chích ven
+0.2
+ven tay
+0.2
+tay của
+0.2
+của mẹ
+0.2
+mẹ sưng
+0.2
+sưng to
+0.2
+to như
+0.2
+như hai
+0.2
+hai quả
+0.2
+quả trứng
+0.2
+trứng gà
+0.2
+nhiều hôm
+0.2
+hôm máu
+0.2
+máu thấm
+0.2
+thấm ướt
+0.2
+ướt đẫm
+0.2
+đẫm cả
+0.2
+cả tấm
+0.2
+tấm băng
+0.2
+băng gạc
+0.2
+do ảnh
+0.2
+ảnh hưởng
+0.2
+hưởng từ
+0.2
+từ suy
+0.2
+suy thận
+0.2
+thận mẹ
+0.2
+mẹ còn
+0.2
+còn bị
+0.2
+bị thêm
+0.2
+thêm viêm
+0.2
+viêm phổi
+0.2
+phổi suy
+0.2
+suy tim
+0.2
+rồi ông
+0.2
+ông lại
+0.2
+lại bị
+0.2
+bị ốm
+0.2
+ốm nặng
+0.2
+bố phải
+0.2
+việc ở
+0.2
+ở nhà
+0.2
+nhà trông
+0.2
+trông ông
+0.2
+nhà mình
+0.3
+mình vì
+0.2
+vì thế
+0.2
+thế càng
+0.2
+càng trở
+0.2
+trở nên
+0.2
+nên túng
+0.2
+túng quẫn
+0.2
+càng túng
+0.2
+túng càng
+0.2
+càng khổ
+0.2
+khổ hơn
+0.2
+tờ một
+0.2
+một trăm
+0.2
+trăm ngàn
+0.2
+ngàn hồi
+0.2
+hồi ấy
+0.2
+ấy một
+0.2
+một thứ
+0.2
+thứ gì
+0.2
+đó xa
+0.3
+xa xỉ
+0.2
+xỉ với
+0.2
+với nhà
+0.2
+cũng từ
+0.3
+từ dạo
+0.2
+dạo ấy
+0.2
+đầu óc
+0.2
+óc non
+0.2
+non nớt
+0.2
+nớt của
+0.2
+của con
+0.2
+con mới
+0.2
+mới dần
+0.2
+dần vỡ
+0.2
+vỡ lẽ
+0.2
+lẽ ra
+0.2
+ra rằng
+0.2
+rằng tiền
+0.2
+bạc chính
+0.2
+chính mồ
+0.2
+mồ hôi
+0.2
+nước mắt
+0.2
+theo đúng
+0.2
+đúng nghĩa
+0.2
+nghĩa đen
+0.2
+đen của
+0.2
+của nó
+0.3
+vì có
+0.2
+có tiền
+0.2
+tiền mới
+0.2
+được chạy
+0.2
+chạy thận
+0.2
+thận lọc
+0.2
+bao nỗi
+0.2
+nỗi niềm
+0.2
+niềm trăn
+0.2
+trăn trở
+0.2
+trở lo
+0.2
+lo lắng
+0.2
+lắng của
+0.2
+của bố
+0.2
+phúc không
+0.2
+không phải
+0.2
+phải tất
+0.2
+đó chỉ
+0.2
+chỉ khởi
+0.2
+khởi đầu
+0.2
+đầu để
+0.2
+để chúng
+0.2
+ta bắt
+0.2
+bắt tay
+0.2
+tay xây
+0.2
+xây dựng
+0.2
+dựng hạnh
+0.2
+phúc cho
+0.2
+cho riêng
+0.3
+riêng mình
+0.4
+sống có
+0.2
+có bao
+0.2
+giờ dễ
+0.2
+dễ dàng
+0.2
+gì cũng
+0.2
+cũng có
+0.2
+có giá
+0.2
+giá của
+0.2
+phải trải
+0.2
+qua khó
+0.2
+khó khăn
+0.2
+khăn sóng
+0.2
+sóng gió
+0.2
+bạn mới
+0.2
+mới có
+0.2
+thể trưởng
+0.2
+trưởng thành
+0.3
+thành hơn
+0.2
+cứng cáp
+0.2
+cáp hơn
+0.2
+hơn để
+0.2
+để tìm
+0.2
+tìm kiếm
+0.2
+kiếm bảo
+0.2
+bảo vệ
+0.2
+vệ hạnh
+0.2
+nhiều người
+0.2
+người than
+0.2
+than thân
+0.2
+thân trách
+0.2
+trách cứ
+0.2
+cứ số
+0.2
+số phận
+0.3
+phận họ
+0.2
+họ không
+0.2
+không may
+0.2
+may mắn
+0.2
+rằng cuộc
+0.2
+cuộc đời
+0.8
+đời bất
+0.2
+bất công
+0.2
+xin hãy
+0.2
+hãy nghe
+0.2
+nghe dave
+0.2
+dave pelzer
+0.3
+pelzer kể
+0.2
+kể lại
+0.2
+lại cuộc
+0.2
+câu chuyện
+0.2
+chuyện về
+0.2
+về một
+0.2
+một vụ
+0.2
+vụ bạo
+0.2
+bạo hành
+0.5
+hành trẻ
+0.2
+trẻ em
+0.2
+em khủng
+0.2
+khủng khiếp
+0.2
+khiếp nhất
+0.2
+nhất trong
+0.3
+trong lịch
+0.2
+lịch sử
+0.2
+sử nước
+0.2
+nước mĩ
+0.2
+pelzer đã
+0.2
+đã bị
+0.2
+bị bạo
+0.2
+hành dã
+0.2
+dã man
+0.2
+man bởi
+0.2
+bởi chính
+0.2
+chính người
+0.2
+người mẹ
+0.5
+mẹ ruột
+0.2
+cũng từng
+0.2
+từng một
+0.2
+một nạn
+0.2
+nạn nhân
+0.3
+của bạo
+0.2
+hành gia
+0.3
+dave đã
+0.2
+đã gắng
+0.2
+gắng hết
+0.2
+hết sức
+0.2
+sức để
+0.2
+để thoát
+0.2
+thoát khỏi
+0.2
+khỏi bóng
+0.2
+bóng đen
+0.2
+đen quá
+0.2
+quá khứ
+0.2
+không đi
+0.2
+đi lại
+0.2
+lại con
+0.2
+con đường
+0.5
+đường của
+0.2
+sống một
+0.2
+một cuộc
+0.3
+đời khác
+0.2
+thành phi
+0.2
+phi công
+0.2
+công như
+0.2
+như mơ
+0.2
+mơ ước
+0.2
+rồi viết
+0.2
+viết tự
+0.2
+tự truyện
+0.2
+truyện tích
+0.2
+tích cực
+0.2
+cực tham
+0.2
+tham gia
+0.2
+gia vào
+0.2
+vào chiến
+0.2
+chiến dịch
+0.2
+dịch chống
+0.2
+chống bạo
+0.2
+cùng một
+0.2
+một hoàn
+0.2
+hoàn cảnh
+0.2
+cảnh người
+0.2
+mẹ đứa
+0.2
+đứa con
+0.2
+con đã
+0.2
+đã hành
+0.2
+hành xử
+0.2
+xử khác
+0.2
+khác nhau
+0.2
+nhau rồi
+0.2
+rồi cuộc
+0.2
+đời họ
+0.2
+họ cũng
+0.2
+cũng khác
+0.2
+khác biệt
+0.2
+hãy nắm
+0.2
+nắm chặt
+0.2
+chặt tay
+0.2
+tay lại
+0.2
+bạn sẽ
+0.2
+sẽ thấy
+0.2
+thấy nhìn
+0.2
+nhìn một
+0.2
+một nửa
+0.3
+nửa đường
+0.2
+đường sống
+0.2
+sống nằm
+0.2
+nằm gọn
+0.2
+gọn trong
+0.2
+trong bàn
+0.2
+nghĩa cuộc
+0.2
+đời chỉ
+0.2
+chỉ có
+0.2
+thể quyết
+0.2
+định được
+0.2
+được một
+0.4
+nửa còn
+0.2
+lại do
+0.2
+do chính
+0.2
+phụ thuộc
+0.2
+thuộc vào
+0.2
+vào cách
+0.2
+cách bạn
+0.2
+bạn hành
+0.2
+hành động
+0.4
+vô cảm
+0.9
+cảm với
+0.2
+với cái
+0.2
+đẹp mới
+0.2
+mới chỉ
+0.2
+chỉ bước
+0.2
+bước đầu
+0.2
+một khi
+0.2
+khi người
+0.2
+người ta
+0.7
+ta đã
+0.3
+đã không
+0.2
+không biết
+0.3
+biết ngưỡng
+0.2
+biết say
+0.2
+động trước
+0.2
+trước điều
+0.2
+điều đẹp
+0.2
+đẹp đẽ
+0.3
+đẽ trái
+0.2
+trái tim
+0.4
+tim cũng
+0.2
+cũng dần
+0.2
+dần chai
+0.2
+chai sạn
+0.2
+sạn rồi
+0.2
+đến đóng
+0.2
+đóng băng
+0.2
+khi ấy
+0.2
+không chỉ
+0.2
+đẹp đứng
+0.2
+đứng trước
+0.2
+trước hành
+0.2
+động ác
+0.2
+ác độc
+0.3
+vô lương
+0.3
+lương tâm
+0.3
+ta cũng
+0.2
+cũng cảm
+0.2
+cảm thấy
+0.2
+thấy bình
+0.2
+bình thường
+0.2
+không oán
+0.2
+oán trách
+0.2
+trách cũng
+0.2
+không cảm
+0.3
+cảm thông
+0.3
+lòng với
+0.2
+với nạn
+0.2
+nhân bị
+0.2
+bị hại
+0.2
+một tháng
+0.2
+tháng trước
+0.2
+tôi đọc
+0.2
+đọc được
+0.2
+một bài
+0.2
+bài báo
+0.2
+báo trên
+0.2
+trên mạng
+0.2
+mạng có
+0.2
+có đưa
+0.2
+đưa tin
+0.2
+tin về
+0.2
+về vụ
+0.2
+vụ một
+0.2
+một đứa
+0.2
+đứa bé
+0.2
+bé trung
+0.2
+trung quốc
+0.2
+quốc hai
+0.2
+hai tuổi
+0.2
+tuổi bị
+0.2
+bị xe
+0.2
+xe tải
+0.3
+tải cán
+0.2
+thương xót
+0.2
+đau lòng
+0.4
+lòng làm
+0.2
+làm sao
+0.4
+sao khi
+0.2
+nhìn cô
+0.2
+cô bé
+0.6
+bé đau
+0.2
+đau đớn
+0.2
+đớn nằm
+0.2
+nằm trên
+0.2
+trên vũng
+0.2
+vũng máu
+0.2
+máu không
+0.2
+không một
+0.2
+người nào
+0.2
+nào qua
+0.2
+qua đường
+0.3
+đường để
+0.2
+để ý
+0.2
+cuống cuồng
+0.2
+cuồng gọi
+0.2
+gọi cấp
+0.2
+cấp cứu
+0.3
+họ nhìn
+0.2
+thấy rồi
+0.2
+rồi đấy
+0.2
+đấy họ
+0.2
+họ lại
+0.2
+lại cố
+0.2
+cố tình
+0.2
+tình như
+0.2
+như không
+0.3
+đi vòng
+0.2
+vòng qua
+0.2
+qua cô
+0.2
+bé để
+0.2
+để tiếp
+0.2
+tiếp tục
+0.2
+tục con
+0.2
+đường nhạt
+0.2
+nhạt thếch
+0.2
+sáo mòn
+0.2
+mòn của
+0.2
+của mình
+0.3
+càng chua
+0.2
+nộ hơn
+0.2
+hơn khi
+0.2
+khi chiếc
+0.2
+chiếc xe
+0.2
+tải tiếp
+0.2
+tiếp theo
+0.2
+theo nhìn
+0.2
+thấy cô
+0.2
+bé nằm
+0.2
+nằm đó
+0.2
+vẫn thoi
+0.2
+thoi thóp
+0.2
+thóp thở
+0.2
+bám víu
+0.2
+víu lấy
+0.2
+lấy cuộc
+0.2
+đời lại
+0.2
+lại vô
+0.3
+vô tình
+0.3
+tình chẹt
+0.2
+chẹt cả
+0.2
+cả bốn
+0.2
+bốn bánh
+0.2
+bánh xe
+0.2
+xe nặng
+0.2
+nặng trịch
+0.2
+trịch đi
+0.2
+đi qua
+0.3
+qua người
+0.2
+người cô
+0.2
+thản nhiên
+0.2
+nhiên đi
+0.2
+đi tiếp
+0.2
+người qua
+0.3
+đường vẫn
+0.2
+vẫn thế
+0.2
+vẫn bình
+0.2
+bình thản
+0.3
+thản như
+0.2
+không có
+0.2
+có chuyện
+0.2
+chuyện gì
+0.2
+gì xảy
+0.2
+xảy ra
+0.2
+bé xấu
+0.2
+xấu số
+0.2
+số chỉ
+0.2
+chỉ được
+0.2
+được cấp
+0.2
+cứu khi
+0.2
+khi một
+0.2
+người phụ
+0.2
+phụ nữ
+0.2
+nữ nhặt
+0.2
+nhặt rác
+0.2
+rác đi
+0.2
+thấy cảm
+0.2
+lòng nên
+0.2
+nên đã
+0.2
+đã bế
+0.2
+bế cô
+0.2
+cô đi
+0.2
+đi bệnh
+0.2
+có con
+0.2
+người ích
+0.2
+ích kỷ
+0.2
+vô tâm
+0.2
+tàn nhẫn
+0.2
+nhẫn như
+0.2
+như vậy
+0.2
+vậy đấy
+0.2
+không thế
+0.2
+bây giờ
+0.2
+giờ ra
+0.2
+ra đường
+0.2
+đường gặp
+0.2
+gặp người
+0.2
+người bị
+0.3
+bị cướp
+0.2
+bị trấn
+0.2
+trấn lột
+0.2
+bị đuổi
+0.2
+đuổi chém
+0.2
+chém lại
+0.2
+lại không
+0.2
+thấy anh
+0.2
+anh hùng
+0.2
+hùng nào
+0.2
+nào ra
+0.2
+ra can
+0.2
+can ngăn
+0.2
+cứu giúp
+0.2
+giúp hay
+0.2
+chỉ một
+0.2
+một việc
+0.2
+việc nhỏ
+0.2
+nhỏ nhoi
+0.2
+nhoi thôi
+0.2
+thôi báo
+0.2
+báo công
+0.2
+công an
+0.2
+đó con
+0.2
+không dại
+0.2
+dại gì
+0.2
+cũng chính
+0.2
+đó xã
+0.2
+càng ác
+0.2
+hỗn loạn
+0.2
+chính lẽ
+0.2
+lẽ đó
+0.2
+đó căn
+0.2
+căn bệnh
+0.5
+bệnh vô
+0.4
+cảm càng
+0.2
+càng được
+0.2
+được thể
+0.2
+thể truyền
+0.2
+truyền nhiễm
+0.2
+lây lan
+0.2
+cảm còn
+0.2
+đường trực
+0.2
+trực tiếp
+0.2
+tiếp dẫn
+0.2
+dẫn đến
+0.2
+đến cái
+0.2
+nó một
+0.2
+một căn
+0.2
+bệnh lâm
+0.2
+lâm sàng
+0.2
+sàng trong
+0.2
+trong đó
+0.2
+não của
+0.2
+người bệnh
+0.2
+bệnh vẫn
+0.2
+vẫn hoạt
+0.2
+hoạt động
+0.2
+động trái
+0.2
+tim lại
+0.2
+lại hoàn
+0.2
+hoàn toàn
+0.2
+toàn băng
+0.2
+băng giá
+0.2
+đã vô
+0.2
+cảm làm
+0.2
+sao có
+0.2
+thể thấu
+0.2
+thấu hiểu
+0.2
+hiểu được
+0.2
+được nỗi
+0.2
+nỗi đau
+0.2
+tình cảm
+0.5
+cảm của
+0.2
+ta chỉ
+0.2
+chỉ nghĩ
+0.2
+đến mình
+0.2
+mình lợi
+0.2
+lợi ích
+0.2
+ích của
+0.2
+của riêng
+0.2
+mình thôi
+0.2
+nếu không
+0.2
+không vô
+0.2
+tại sao
+0.4
+sao cô
+0.2
+cô giáo
+0.2
+giáo ở
+0.2
+ở trường
+0.2
+trường mầm
+0.2
+non lại
+0.2
+lại nhẫn
+0.2
+nhẫn tâm
+0.2
+tâm giật
+0.2
+giật tóc
+0.2
+đánh đập
+0.2
+bịt miệng
+0.2
+miệng cháu
+0.2
+cháu bé
+0.2
+bé còn
+0.2
+còn ngây
+0.2
+ngây thơ
+0.2
+nhỏ tuổi
+0.2
+sao một
+0.2
+người còn
+0.2
+còn chưa
+0.2
+chưa qua
+0.2
+qua tuổi
+0.2
+tuổi trưởng
+0.2
+thành lại
+0.2
+vô tư
+0.2
+tư chém
+0.2
+chém giết
+0.2
+giết cả
+0.2
+nhà người
+0.2
+ta để
+0.2
+để lấy
+0.2
+lấy của
+0.2
+của cải
+0.2
+xa hơn
+0.3
+hơn nữa
+0.3
+nữa công
+0.2
+công chức
+0.2
+chức bình
+0.2
+thản ăn
+0.2
+ăn tiền
+0.2
+tiền ủng
+0.2
+ủng hộ
+0.2
+trợ giúp
+0.2
+giúp số
+0.2
+phận đau
+0.2
+đau thương
+0.2
+bất hạnh
+0.2
+hạnh của
+0.2
+người dân
+0.2
+dân để
+0.2
+để kiếm
+0.2
+kiếm lợi
+0.2
+lợi cho
+0.2
+và còn
+0.2
+nhiều hành
+0.2
+động xấu
+0.2
+xấu xa
+0.2
+cả điều
+0.2
+điều vô
+0.2
+tâm ấy
+0.2
+ấy đề
+0.2
+đề xuất
+0.2
+xuất phát
+0.2
+phát từ
+0.2
+từ căn
+0.2
+cảm ra
+0.2
+ta biết
+0.2
+biết bệnh
+0.2
+cảm vô
+0.2
+vô cùng
+0.2
+cùng nguy
+0.2
+nguy hiểm
+0.2
+hiểm lại
+0.2
+lại đặt
+0.2
+đặt ra
+0.2
+ra câu
+0.2
+câu hỏi
+0.2
+hỏi rốt
+0.2
+rốt cuộc
+0.2
+cuộc nguyên
+0.2
+nguyên nhân
+0.2
+nhân tại
+0.2
+suy cho
+0.2
+cho cùng
+0.2
+cảm điều
+0.2
+điều chi
+0.2
+chi phối
+0.2
+phối tất
+0.2
+những người
+0.2
+người vô
+0.2
+cảm người
+0.2
+bị thiếu
+0.2
+thiếu hụt
+0.2
+hụt tình
+0.2
+tình yêu
+0.3
+chính vì
+0.2
+vì không
+0.2
+được tình
+0.2
+thương người
+0.2
+ta ngày
+0.2
+càng lạnh
+0.2
+lạnh giá
+0.2
+phần nữa
+0.2
+nữa cũng
+0.2
+cũng do
+0.2
+do xã
+0.2
+hội hiện
+0.2
+hiện đại
+0.2
+đại quá
+0.2
+quá bận
+0.2
+rộn đòi
+0.2
+đòi hỏi
+0.2
+hỏi con
+0.2
+người phải
+0.2
+phải làm
+0.2
+làm việc
+0.3
+việc bỏ
+0.2
+bỏ quên
+0.2
+quên thời
+0.2
+để trao
+0.2
+trao nhau
+0.2
+nhau hơi
+0.2
+hơi ấm
+0.2
+ấm của
+0.2
+của tình
+0.2
+tình thương
+0.2
+để ươm
+0.2
+ươm mầm
+0.2
+mầm cảm
+0.2
+cảm xúc
+0.2
+cảm như
+0.2
+như hạt
+0.2
+mưa càng
+0.2
+càng to
+0.2
+càng nặng
+0.2
+nặng càng
+0.2
+càng dập
+0.2
+dập tắt
+0.2
+tắt được
+0.2
+được ngọn
+0.2
+ngọn lửa
+0.3
+lửa của
+0.2
+của lòng
+0.2
+lòng thù
+0.2
+thù hận
+0.2
+ghen ghét
+0.2
+bi ai
+0.2
+ai nó
+0.2
+cũng như
+0.2
+một ngọn
+0.2
+lửa thổi
+0.2
+thổi bùng
+0.2
+bùng cháy
+0.2
+cháy mãnh
+0.2
+liệt trong
+0.2
+tâm hồn
+0.2
+hồn để
+0.2
+để nuôi
+0.2
+nuôi dưỡng
+0.2
+dưỡng tiếp
+0.2
+tiếp nguồn
+0.2
+nguồn sống
+0.2
+sống cho
+0.2
+cho chúng
+0.2
+vì vậy
+0.2
+điều duy
+0.2
+duy nhất
+0.2
+nhất chúng
+0.2
+thể làm
+0.2
+làm để
+0.2
+để cho
+0.2
+cho căn
+0.2
+bệnh cô
+0.2
+cô cảm
+0.2
+còn đất
+0.2
+đất sống
+0.2
+hãy biết
+0.2
+biết mở
+0.2
+mở cửa
+0.3
+cửa trái
+0.2
+tim để
+0.2
+để biết
+0.2
+biết cảm
+0.2
+biết yêu
+0.2
+yêu ghét
+0.2
+thương giận
+0.2
+giận chia
+0.2
+chia sẻ
+0.2
+sẻ điều
+0.2
+điều tinh
+0.2
+tinh túy
+0.2
+túy đó
+0.2
+đó cho
+0.2
+cho người
+0.2
+người xung
+0.2
+xung quanh
+0.2
+quanh mình
+0.2
+nếu hỏi
+0.3
+hỏi ai
+0.2
+ai rằng
+0.2
+rằng bạn
+0.2
+bạn thích
+0.2
+thích thời
+0.2
+thời điểm
+0.2
+điểm nào
+0.2
+nào nhất
+0.2
+trong ngày
+0.2
+khó ai
+0.2
+ai đoán
+0.2
+đoán được
+0.2
+được câu
+0.2
+câu trả
+0.3
+lời sẽ
+0.3
+sẽ ra
+0.2
+ra sao
+0.2
+buổi sáng
+0.2
+buổi trưa
+0.2
+trưa hay
+0.2
+hay buổi
+0.2
+buổi tối
+0.6
+nhưng nếu
+0.2
+hỏi tôi
+0.2
+tôi đây
+0.2
+sẽ buổi
+0.2
+giữa ngày
+0.2
+ngày hè
+0.2
+hè oi
+0.2
+oi ả
+0.2
+ả thế
+0.2
+thế này
+0.2
+còn gì
+0.2
+gì tuyệt
+0.2
+tuyệt hơn
+0.2
+hơn một
+0.2
+tối gió
+0.2
+gió lộng
+0.2
+không cần
+0.2
+cần phải
+0.2
+phải chờ
+0.2
+chờ lâu
+0.2
+chỉ cần
+0.2
+cần nhìn
+0.2
+thấy ánh
+0.2
+ánh mặt
+0.2
+mặt trời
+0.4
+trời đỏ
+0.2
+đỏ ối
+0.2
+ối buổi
+0.2
+buổi hoàng
+0.2
+hoàng hôn
+0.2
+hôn sắp
+0.2
+sắp tắt
+0.2
+gió đã
+0.2
+đã lộng
+0.2
+lộng hành
+0.2
+hành khắp
+0.2
+khắp phố
+0.2
+phố phường
+0.3
+tràn vào
+0.2
+vào căn
+0.2
+căn nhà
+0.2
+nhà mở
+0.2
+trời đã
+0.2
+đã thiếp
+0.2
+thiếp đi
+0.4
+đi ở
+0.2
+ở nơi
+0.2
+nơi đâu
+0.2
+đâu xa
+0.2
+xa lắm
+0.2
+vậy một
+0.2
+một mảng
+0.2
+mảng trời
+0.2
+trời phía
+0.2
+phía tây
+0.2
+tây vẫn
+0.2
+vẫn còn
+0.2
+còn vương
+0.2
+vương vất
+0.2
+vất sợi
+0.2
+sợi tơ
+0.2
+tơ đỏ
+0.2
+đỏ của
+0.2
+của ánh
+0.2
+ánh chiều
+0.2
+chiều tà
+0.2
+những ánh
+0.2
+đèn điện
+0.4
+điện sáng
+0.2
+sáng rực
+0.3
+rực dần
+0.2
+dần thay
+0.2
+thay thế
+0.2
+thế cho
+0.2
+cho mặt
+0.3
+những đại
+0.2
+đại lộ
+0.2
+lộ rộng
+0.2
+rộng thênh
+0.2
+thênh thang
+0.2
+thang như
+0.2
+như dát
+0.2
+dát vàng
+0.3
+vàng ánh
+0.2
+sáng đèn
+0.2
+đông nghịt
+0.2
+nghịt người
+0.2
+người xe
+0.2
+giờ tan
+0.2
+tan tầm
+0.2
+tầm ai
+0.2
+ai cũng
+0.2
+cũng vội
+0.2
+vội vã
+0.2
+hối hả
+0.2
+hả trở
+0.2
+trở về
+0.2
+về nhà
+0.2
+tiếng còi
+0.2
+còi xe
+0.2
+tiếng nói
+0.3
+tiếng cười
+0.3
+cười tạo
+0.2
+tạo nên
+0.2
+nên một
+0.2
+một bản
+0.2
+bản hòa
+0.2
+hòa tấu
+0.2
+tấu của
+0.2
+của đô
+0.3
+thị phồn
+0.2
+phồn hoa
+0.3
+bên cái
+0.2
+cái ồn
+0.2
+ồn ã
+0.3
+ã thường
+0.2
+thường nhật
+0.2
+nhật ấy
+0.2
+lại yêu
+0.2
+yêu hơn
+0.2
+hơn cả
+0.2
+cả khung
+0.2
+khung cảnh
+0.3
+cảnh quanh
+0.2
+quanh hồ
+0.2
+hồ gần
+0.2
+gần nhà
+0.2
+nhà tôi
+0.2
+màn đêm
+0.2
+đêm u
+0.2
+u tối
+0.2
+tối đắp
+0.2
+đắp chiếc
+0.2
+chiếc chăn
+0.2
+chăn dạ
+0.2
+dạ đen
+0.2
+đen cho
+0.2
+mặt hồ
+0.3
+hồ phẳng
+0.2
+phẳng lặng
+0.2
+những chị
+0.2
+chị liễu
+0.2
+liễu vẫn
+0.2
+vẫn nghiêng
+0.2
+nghiêng mình
+0.2
+mình bên
+0.2
+bên hồ
+0.2
+hồ nước
+0.2
+nước trong
+0.2
+trong xanh
+0.2
+chải chuốt
+0.2
+chuốt mái
+0.2
+mái tóc
+0.2
+tóc dài
+0.2
+dài của
+0.2
+mình như
+0.2
+một cô
+0.2
+cô thiếu
+0.2
+thiếu nữ
+0.2
+hàng bằng
+0.2
+bằng lăng
+0.2
+lăng tím
+0.2
+tím biếc
+0.2
+biếc cũng
+0.2
+cũng thiếp
+0.2
+mặc cho
+0.2
+cho có
+0.2
+có tiếng
+0.2
+cười của
+0.2
+qua lại
+0.2
+gió khẽ
+0.2
+khẽ len
+0.2
+len qua
+0.2
+qua vòm
+0.2
+vòm cây
+0.2
+cất cao
+0.2
+cao tiếng
+0.2
+tiếng hát
+0.2
+hát vi
+0.2
+vi vu
+0.2
+vu vi
+0.2
+vu như
+0.2
+như lời
+0.2
+lời ru
+0.2
+ru nồng
+0.2
+nồng nàn
+0.2
+nàn tha
+0.2
+tha thiết
+0.2
+thiết của
+0.2
+mẹ đưa
+0.2
+đưa đàn
+0.2
+đàn chim
+0.2
+chim bé
+0.2
+bé nhỏ
+0.2
+nhỏ vào
+0.2
+vào giấc
+0.2
+giấc mơ
+0.2
+mơ hồng
+0.2
+chim non
+0.3
+non thu
+0.2
+thu đầu
+0.2
+đầu vào
+0.2
+vào lông
+0.2
+lông vào
+0.2
+vào cánh
+0.2
+cố che
+0.2
+che đi
+0.2
+đi ánh
+0.2
+điện đang
+0.2
+đang tràn
+0.2
+tràn lan
+0.2
+lan khắp
+0.2
+khắp muôn
+0.2
+muôn nơi
+0.2
+giọt sương
+0.2
+sương nào
+0.2
+nào vừa
+0.2
+vừa mới
+0.2
+mới kết
+0.2
+kết tinh
+0.2
+tinh lại
+0.2
+lại trên
+0.2
+trên chiếc
+0.2
+tình rớt
+0.2
+rớt trúng
+0.2
+trúng chú
+0.2
+non làm
+0.2
+làm tiếng
+0.2
+tiếng hót
+0.2
+hót líu
+0.2
+líu ríu
+0.2
+ríu giật
+0.2
+giật mình
+0.2
+mình vang
+0.2
+vang lên
+0.2
+rồi lại
+0.2
+lại mệt
+0.2
+mệt mỏi
+0.2
+mỏi thiếp
+0.2
+đi sau
+0.2
+ngày múa
+0.2
+múa ca
+0.2
+ca bay
+0.2
+bay nhảy
+0.2
+cảnh thanh
+0.2
+thanh bình
+0.3
+bình đứng
+0.2
+đứng bên
+0.2
+bên vẻ
+0.2
+vẻ sôi
+0.2
+sôi động
+0.3
+động của
+0.2
+thị mới
+0.2
+mới đẹp
+0.2
+đẽ làm
+0.2
+nói đến
+0.2
+đến đêm
+0.2
+đêm nói
+0.2
+đến trăng
+0.2
+trăng sao
+0.2
+vậy buổi
+0.2
+tối trên
+0.3
+trên thủ
+0.3
+thủ đô
+0.3
+đô thân
+0.2
+thân yêu
+0.3
+yêu lại
+0.2
+lại ít
+0.2
+ít ai
+0.2
+ai nhớ
+0.2
+nhớ rằng
+0.2
+rằng có
+0.2
+một con
+0.2
+con thuyền
+0.2
+thuyền nhỏ
+0.2
+nhỏ đang
+0.2
+đang trôi
+0.2
+trôi giữa
+0.2
+giữa dòng
+0.2
+dòng ngân
+0.2
+ngân hà
+0.2
+hà vắt
+0.2
+vắt ngang
+0.2
+ngang bầu
+0.2
+bầu trời
+0.2
+trong ánh
+0.2
+ánh điện
+0.2
+điện lung
+0.2
+lung linh
+0.3
+linh dát
+0.2
+vàng dát
+0.2
+dát bạc
+0.2
+bạc cho
+0.2
+cho con
+0.2
+hiếm ai
+0.2
+ai nhận
+0.2
+nhận ra
+0.2
+ra dòng
+0.2
+dòng trăng
+0.2
+trăng đang
+0.2
+đang hòa
+0.2
+hòa vào
+0.2
+vào ánh
+0.2
+rực rỡ
+0.2
+rỡ ấy
+0.2
+trăng chỉ
+0.2
+chỉ dành
+0.2
+cho bà
+0.2
+cho đám
+0.3
+đám trẻ
+0.3
+trẻ thơ
+0.2
+thơ đang
+0.2
+đang múa
+0.2
+múa hát
+0.2
+hát đón
+0.2
+đón chị
+0.2
+chị hằng
+0.2
+hằng không
+0.2
+không sao
+0.2
+sao quen
+0.2
+quen được
+0.2
+được với
+0.2
+với sự
+0.2
+sự tất
+0.2
+tất bật
+0.2
+bật của
+0.2
+người thành
+0.2
+thành thị
+0.2
+trăng e
+0.2
+e ấp
+0.2
+ấp sao
+0.2
+sao mái
+0.2
+mái nhà
+0.2
+nhà cao
+0.2
+in bóng
+0.2
+bóng trên
+0.2
+trên mặt
+0.2
+hồ như
+0.2
+như để
+0.2
+để ai
+0.2
+ai dành
+0.2
+dành tình
+0.2
+cảm cho
+0.2
+cho trăng
+0.2
+trăng đều
+0.2
+đều có
+0.2
+thể trông
+0.2
+trông thấy
+0.2
+trăng không
+0.2
+không làm
+0.2
+làm lung
+0.2
+linh thêm
+0.2
+thêm cho
+0.2
+cho cảnh
+0.2
+cảnh vật
+0.2
+vật ở
+0.2
+ở phố
+0.2
+phường như
+0.2
+như trăng
+0.2
+trăng làm
+0.2
+tôi cho
+0.2
+trẻ trong
+0.2
+trong khu
+0.2
+khu như
+0.2
+như thấy
+0.2
+thấy được
+0.2
+sự êm
+0.2
+êm ả
+0.3
+hiền dịu
+0.2
+dịu giữa
+0.2
+giữa chốn
+0.2
+chốn phồn
+0.2
+không quá
+0.2
+quá ồn
+0.2
+ã cũng
+0.2
+cũng chẳng
+0.2
+chẳng quá
+0.2
+quá tĩnh
+0.2
+tĩnh mịch
+0.2
+vừa sôi
+0.2
+động lại
+0.2
+lại thật
+0.2
+thật êm
+0.2
+chính buổi
+0.2
+đô hà
+0.2
+hà nội
+0.2
+nội thân
+0.2
+đã bao
+0.2
+giờ bạn
+0.2
+bạn tự
+0.2
+tự hỏi
+0.2
+hỏi thành
+0.2
+thành công
+0.4
+công gì
+0.2
+gì bao
+0.2
+bao kẻ
+0.2
+kẻ bỏ
+0.2
+bỏ cả
+0.2
+cả cuộc
+0.2
+đời mình
+0.2
+mình theo
+0.2
+theo đuổi
+0.2
+phải chăng
+0.2
+đó kết
+0.2
+kết quả
+0.2
+quả hoàn
+0.2
+hoàn hảo
+0.2
+hảo trong
+0.2
+trong công
+0.2
+công việc
+0.2
+sự chính
+0.2
+chính xác
+0.2
+xác đến
+0.2
+đến từng
+0.2
+từng chi
+0.2
+chi tiết
+0.2
+hay đó
+0.2
+đó cách
+0.2
+cách nói
+0.2
+nói khác
+0.2
+khác của
+0.2
+của từ
+0.2
+từ thành
+0.2
+thành đạt
+0.2
+nghĩa có
+0.2
+sống giàu
+0.2
+giàu sang
+0.2
+được mọi
+0.2
+mọi người
+0.2
+người nể
+0.2
+nể phục
+0.2
+vậy bạn
+0.2
+bạn hãy
+0.2
+hãy dành
+0.2
+dành chút
+0.2
+chút thời
+0.2
+để lặng
+0.2
+lặng mình
+0.2
+mình suy
+0.2
+suy ngẫm
+0.2
+sống sẽ
+0.2
+sẽ chỉ
+0.2
+chỉ cho
+0.2
+cho bạn
+0.2
+bạn có
+0.2
+có người
+0.2
+người đạt
+0.2
+đạt được
+0.2
+được thành
+0.2
+công theo
+0.2
+theo một
+0.2
+một cách
+0.2
+cách giản
+0.2
+giản dị
+0.2
+dị đến
+0.2
+đến bất
+0.2
+bất ngờ
+0.2
+công khi
+0.2
+khi bố
+0.2
+bố con
+0.2
+con trai
+0.2
+trai có
+0.2
+có dũng
+0.2
+dũng khí
+0.2
+khí bước
+0.2
+bước vào
+0.2
+vào bếp
+0.2
+nấu món
+0.2
+món ăn
+0.2
+ăn mẹ
+0.2
+mẹ thích
+0.2
+thích nhân
+0.2
+nhân ngày
+0.2
+món canh
+0.2
+canh có
+0.2
+thể hơi
+0.2
+hơi mặn
+0.2
+món cá
+0.2
+cá sốt
+0.2
+sốt đáng
+0.2
+đáng lẽ
+0.2
+lẽ phải
+0.2
+phải có
+0.2
+đỏ sậm
+0.2
+sậm lại
+0.2
+lại ngả
+0.2
+ngả sang
+0.2
+màu đen
+0.2
+đen cháy
+0.2
